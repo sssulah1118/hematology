@@ -1,0 +1,9 @@
+﻿patient_id,patient_name,bm_exam_date,indication,result_summary
+LEU-001,김진호,2026-02-19,진단시,"blast 62%, cellularity 90%, t(8;21) RUNX1::RUNX1T1 양성, KIT 변이 음성 → AML 확진"
+LEU-001,김진호,2026-03-10,관해유도 D+14,"cellularity 10% 미만(hypocellular), 잔여 blast 2% - aplastic marrow 확인"
+LEU-002,이지현,2026-02-25,진단시,"blast 88%, cellularity 95%, TdT/CD19/CD10 양성 B-ALL, BCR::ABL1 음성"
+LEU-003,박영수,2026-02-28,재발 확인,"blast 45%, cellularity 80%, FLT3-ITD 양성(AR 0.62), complex karyotype"
+LEU-004,최은영,2026-01-08,진단시,"blast(promyelocyte 포함) 78%, PML::RARA 융합유전자 양성, DIC 동반"
+LEU-004,최은영,2026-03-09,관해평가,"blast 1.2%, cellularity 60%, PML::RARA RT-PCR 음성 → 분자학적 완전관해(MRD 음성)"
+LEU-005,정대호,2026-01-20,이식 전 평가,"blast 1.8%, 완전관해 상태, NPM1 MRD 음성"
+LEU-005,정대호,2026-03-10,이식 후 D+47,"cellularity 45%, 삼계열 생착 양호, 공여자 키메리즘 98.7%, blast 1.5% - 재발 소견 없음"
