@@ -1,16 +1,11 @@
 {
-  "buildCommand": "echo 'Static HTML site'",
-  "outputDirectory": "public",
+  "buildCommand": "echo 'Building static site'",
+  "outputDirectory": ".",
   "public": true,
-  "headers": [
+  "routes": [
     {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=3600, s-maxage=3600"
-        }
-      ]
+      "src": "/.*",
+      "dest": "/index.html"
     }
   ]
 }
